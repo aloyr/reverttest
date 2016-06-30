@@ -2,7 +2,6 @@ total 45
 drwxrwxr-x+ 207 root  admin  7038 Jun 29 15:03 Applications
 drwxr-xr-x    3 root  wheel   102 Apr 26  2014 Developer
 drwxrwxr-x    4 root  admin   136 Oct  7  2015 Incompatible Software
-add a mistaken line
 drwxr-xr-x+  69 root  wheel  2346 Oct 29  2015 Library
 drwxr-xr-x@   2 root  wheel    68 Sep 30  2015 Network
 drwxr-xr-x@   4 root  wheel   136 May 25 10:40 System
