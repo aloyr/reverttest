@@ -1,0 +1,23 @@
+total 45
+drwxrwxr-x+ 207 root  admin  7038 Jun 29 15:03 Applications
+drwxr-xr-x    3 root  wheel   102 Apr 26  2014 Developer
+drwxrwxr-x    4 root  admin   136 Oct  7  2015 Incompatible Software
+drwxr-xr-x+  69 root  wheel  2346 Oct 29  2015 Library
+drwxr-xr-x@   2 root  wheel    68 Sep 30  2015 Network
+drwxr-xr-x@   4 root  wheel   136 May 25 10:40 System
+drwxr-xr-x    8 root  admin   272 Feb  2 10:43 Users
+drwxrwxrwt@   5 root  admin   170 Jun 30 09:05 Volumes
+drwxr-xr-x@  39 root  wheel  1326 May 25 10:40 bin
+drwxrwxr-t@   2 root  admin    68 Sep 30  2015 cores
+dr-xr-xr-x    3 root  wheel  4296 Jun 29 14:48 dev
+lrwxr-xr-x@   1 root  wheel    11 Sep 30  2015 etc -> private/etc
+dr-xr-xr-x    2 root  wheel     1 Jun 29 15:17 home
+-rw-r--r--@   1 root  wheel   313 Aug 22  2015 installer.failurerequests
+drwxrwxrwt@   3 root  wheel   102 Nov 20  2015 lost+found
+dr-xr-xr-x    2 root  wheel     1 Jun 29 15:17 net
+drwxr-xr-x@  10 root  wheel   340 Jun 29 14:36 opt
+drwxr-xr-x@   6 root  wheel   204 Sep 30  2015 private
+drwxr-xr-x@  59 root  wheel  2006 May 25 10:40 sbin
+lrwxr-xr-x@   1 root  wheel    11 Sep 30  2015 tmp -> private/tmp
+drwxr-xr-x@  13 root  wheel   442 May 19 21:01 usr
+lrwxr-xr-x@   1 root  wheel    11 Sep 30  2015 var -> private/var
